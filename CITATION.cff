@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this dataset, code, or supplementary material, please cite the accompanying paper."
+title: "Safeguarding Human Agency in AI-Assisted Financial Decisions: Detecting and Mitigating Cognitive Biases in LLMs"
+authors:
+  - family-names: "Maciel Almeida"
+    given-names: "Leandro"
+    affiliation: "Universidade Federal de Pernambuco"
+    orcid: "https://orcid.org/0000-0001-8025-0517"
+    email: "lma3@cin.ufpe.br"
+  - family-names: "Cadete"
+    given-names: "Alice Buarque"
+    affiliation: "Universidade Federal de Pernambuco"
+    orcid: "https://orcid.org/0009-0006-8218-4481"
+    email: "abc3@cin.ufpe.br"
+  - family-names: "Queiroz"
+    given-names: "Victoria Xavier"
+    affiliation: "Universidade Federal de Pernambuco"
+    orcid: "https://orcid.org/0009-0005-1368-5509"
+    email: "vxq@cin.ufpe.br"
+version: "1.0-camera-ready"
+date-released: 2026-04-14
+license: MIT
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: "Maciel Almeida"
+      given-names: "Leandro"
+    - family-names: "Cadete"
+      given-names: "Alice Buarque"
+    - family-names: "Queiroz"
+      given-names: "Victoria Xavier"
+  title: "Safeguarding Human Agency in AI-Assisted Financial Decisions: Detecting and Mitigating Cognitive Biases in LLMs"
+  conference:
+    name: "International Joint Conference on Neural Networks (IJCNN), IEEE World Congress on Computational Intelligence (WCCI)"
+  year: 2026
